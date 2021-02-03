@@ -22,5 +22,6 @@ public class CommentsInfo {
     private String addItemIconUrl;       // иконка кнопки добавления материалов в комментарий
     private String addPhotoIconUrl;      // иконка кнопки "Фотография"
     private String addEmojiIconUrl;      // иконка для кнопки выбора эмоджи
-    private String sendButtonIconUrl;    // иконка для кнопи размещения комментария
+    private String sendButtonIconUrl;    // иконка для кнопки размещения комментария
+
 }
