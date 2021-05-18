@@ -8,10 +8,10 @@ public class PostManager {
 
     public Post[] search(int ownerId, String domain, String query, int count, int offset) { // позволяет искать записи на стене в соответствии с заданными критериями
 
-        return null;
+        return posts;
     }
 
     public void delete(int ownerId, int postId) { // удаляет запись со стены
-        return;
+        return null;
     }
 }
